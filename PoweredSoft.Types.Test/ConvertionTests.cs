@@ -61,7 +61,7 @@ namespace PoweredSoft.Types.Test
 
             var a1 = "12345";
             var b1 = a1.To(typeof(int?));
-            Assert.AreEqual(b1, 12345);
+            Assert.AreEqual(12345, b1);
         }
     }
 }
