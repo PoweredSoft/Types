@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>David Lebee</Authors>
+    <Company>Powered Softwares Inc</Company>
+    <Description>Allows to easily convert types.</Description>
+    <RepositoryUrl>https://github.com/PoweredSoft/Types</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/PoweredSoft/Types</PackageProjectUrl>
+    <RepositoryType>github</RepositoryType>
+    <PackageTags>types conversion</PackageTags>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
